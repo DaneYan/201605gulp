@@ -1,2 +1,6 @@
-# 201605gulp
-201605gulp
+## 安装
+```
+npm install gulp -g
+npm install gulp --save-dev 
+```
+
